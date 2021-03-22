@@ -1,0 +1,23 @@
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#cloning-an-environment
+conda info --envs / conda env list
+conda create --name common --clone base
+
+pip install -U selenium pyecharts pyppeteer
+
+puppeteer / pyppeteer
+https://github.com/pyppeteer/pyppeteer
+https://github.com/puppeteer/puppeteer
+
+pyecharts
+https://github.com/pyecharts/pyecharts
+https://gallery.pyecharts.org/
+
+selenium
+https://pypi.org/project/selenium/
+https://npm.taobao.org/mirrors/chromedriver/
+
+jupyter
+https://jupyter.org/install.html
+
+pyxll 
+https://www.thetechplatform.com/post/python-jupyter-notebooks-in-excel
